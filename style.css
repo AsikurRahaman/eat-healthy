@@ -1,0 +1,52 @@
+.half_width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-family: 'Poppins', sans-serif;
+    color: #575757;
+    line-height: 130%;
+    letter-spacing: -2%;
+}
+
+.half_width img {
+    width: 100%;
+}
+
+.half_width p {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-family: 'Poppins', sans-serif;
+    color: #828282;
+    line-height: 160%;
+    letter-spacing: -2%;
+    margin-bottom: 85px;
+}
+
+.half_width a {
+    background-image: linear-gradient(to right, #FBA24F, #FF1E1E);
+    padding: 25px 58px;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    margin-top: 2em;
+}
+
+.orange_color {
+    color: #FC8F49;
+}
+
+.order_description {
+    padding-top: 8%;
+}
+
+.order_food {
+    display: flex;
+    width: 100%;
+}
